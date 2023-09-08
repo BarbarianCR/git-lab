@@ -117,3 +117,7 @@ It does not work because "there is work that is not stored locally done to the f
 
 Answer 12:
 Yes, my answers were reflected in my local copy
+
+Answer 13: .  ..  .git  .gitignore  README.md
+
+
