@@ -107,3 +107,13 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10:
+No my changes did not show up in my local copy
+
+
+Answer 11:
+It does not work because "there is work that is not stored locally done to the file.
+
+Answer 12:
+Yes, my answers were reflected in my local copy
